@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>129110785196-8ri0ke6kq1qi5tni7up663i05jguvr1l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129110785196-8ri0ke6kq1qi5tni7up663i05jguvr1l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDw9FbIQtOSO_G3noy5ream-mmI9ZlEOCo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129110785196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.maximum.riskmanagement</string>
+	<key>PROJECT_ID</key>
+	<string>risk-management-8100f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>risk-management-8100f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129110785196:ios:c33e1d4d69e7f0e7cbf309</string>
+</dict>
+</plist>
