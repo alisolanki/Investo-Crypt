@@ -15,4 +15,8 @@ Algorithm used to determine the best portfolio depending upon risk, duration, vo
 <br>
 <br>
 <!-- ![WhatsApp Image 2021-09-07 at 6 48 28 PM](https://user-images.githubusercontent.com/59622008/145720188-4e2e0113-f4cd-4ccd-873e-e3dd8e3a4645.jpeg) {:height="50%" width="50%"} -->
-<img src="https://user-images.githubusercontent.com/59622008/145720188-4e2e0113-f4cd-4ccd-873e-e3dd8e3a4645.jpeg" height="600px" width="350px" text-align="center">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59622008/145720188-4e2e0113-f4cd-4ccd-873e-e3dd8e3a4645.jpeg" height="600px" width="350px"><br><br>
+<img src="https://user-images.githubusercontent.com/59622008/145728041-e65e66a4-4f8d-4497-835e-9293d47a8e96.jpeg" height="600px" width="350px">
+</p>
+
